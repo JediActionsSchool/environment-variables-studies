@@ -12,6 +12,8 @@ on:
   pull_request:
     branches:
       - ci/*
+      - feat/pr-check
+      - fix/*
       - cd/*
 
 jobs:
