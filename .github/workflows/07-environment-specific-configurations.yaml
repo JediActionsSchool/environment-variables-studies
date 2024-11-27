@@ -12,6 +12,7 @@ on:
   pull_request:
     branches:
       - ci/*
+      - cd/*
 
 jobs:
   live-environment-deployment:
