@@ -16,6 +16,7 @@ on:
       - fix/*
       - cd/*
       - chore/*
+      - halim
 
 jobs:
   live-environment-deployment:
